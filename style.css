@@ -7,3 +7,7 @@ p{
     color: white;
     border: 5px solid teal;
 }
+ul{
+    backgroun-color: teal;
+}
+li{background-color: red;}
